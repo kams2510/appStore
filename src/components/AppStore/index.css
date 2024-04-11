@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.container-bg {
+  background-image: linear-gradient(#fff1eb, #ace0f9);
+  height: 100vh;
+}
+h1 {
+  text-align: center;
+}
+
+input {
+  border: 0px;
+  background-color: transparent;
+  margin: 4px;
+}
+.search-icon {
+  margin-top: 3px;
+  height: 20px;
+  width: 20px;
+}
+.input-container {
+  display: flex;
+  justify-content: center;
+  border: 1px solid #1e293b;
+
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.input-card {
+  display: flex;
+  justify-content: center;
+}
+
+.tab-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin-right: 50px;
+}
+.tab-container > li {
+  margin-right: 2px;
+  font-weight: 400;
+  color: #1e293b;
+}
+
+.app-list-container-card {
+}
+.app-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

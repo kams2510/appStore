@@ -1,0 +1,12 @@
+/* Write your CSS here */
+button {
+  border-top: none;
+  border-bottom: 2px solid #ace0f9;
+
+  border-right: none;
+  border-left: none;
+}
+
+.active-tab {
+  border-bottom: 2px solid #1e293b;
+}
